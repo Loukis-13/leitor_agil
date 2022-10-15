@@ -1,16 +1,16 @@
-# leitor_agil
+# Leitor Ágil
 
-A new Flutter project.
+Aplicativo Flutter para ajudar a ler arquivos e documentos rapidamente  
+exemplo de como funciona: https://www.youtube.com/watch?v=wZhbyMjL4oQ  
 
-## Getting Started
+## Capturas
+![Home](prints/home.png)
+![Configurations](prints/configurations.png)
+![Display](prints/display.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependências
+* [provider](https://pub.dev/packages/provider)
+* [file picker](https://pub.dev/packages/file_picker)
+* [flutter spinbox](https://pub.dev/packages/flutter_spinbox)
+* [flutter colorpicker](https://pub.dev/packages/flutter_colorpicker)
+* [syncfusion flutter pdf](https://pub.dev/packages/syncfusion_flutter_pdf)
