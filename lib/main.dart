@@ -25,10 +25,7 @@ class LeitorAgil extends StatelessWidget {
           backgroundColor: value.secondary,
           scaffoldBackgroundColor: value.secondary,
           appBarTheme: AppBarTheme(
-            backgroundColor: value.secondary,
-            iconTheme: IconThemeData(color: value.primary),
-            elevation: 0,
-          ),
+              backgroundColor: value.secondary, iconTheme: IconThemeData(color: value.primary), elevation: 0,),
           textTheme: Theme.of(context).textTheme.apply(bodyColor: value.primary, displayColor: value.primary),
         ),
         initialRoute: 'home',
